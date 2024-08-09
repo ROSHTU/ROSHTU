@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Roshtu Kuthiala and I'm a Final Year Student Student@ VIT,Vellore from New Delhi</p>
+<p align="left">My name is Roshtu Kuthiala and I'm a Final Year Student@ VIT,Vellore from New Delhi</p>
 
 ###
 
