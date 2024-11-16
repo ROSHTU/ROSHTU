@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">SDE Intern @ Hindustan Petroleum Corporation Limited<br>Backend Developer Intern @ Binmile Technologies Pvt Ltd</p>
+<p align="left">Project Trainee @ Hindustan Petroleum Corporation Limited<br>Backend Developer Intern @ Binmile Technologies Pvt Ltd</p>
 
 ###
 
