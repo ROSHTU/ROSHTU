@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">My name is Roshtu Kuthiala and I'm a Final Year Student@ VIT,Vellore from New Delhi</p>
+<p align="left">My name is Roshtu Kuthiala and I have completed my B.Tech in Computer Science Engineering with specialization Business Systems </p>
+<p align="left">From VIT, University Vellore Campus with a CGPA of 8.77</p>
 
 ###
 
@@ -16,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning SpringBoot<br>🎯 Goals :  Work with NBFC clients<br>🎲 Fun fact : Love Travelling & Music</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently workinf on projects in DataScience & AI <br>🎯 Goals :  Work with NBFC clients , BFSI Vertical , Data Science & AI <br>🎲 Fun fact : Love Travelling & Music</p>
 
 ###
 
