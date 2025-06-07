@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently workinf on projects in DataScience & AI <br>🎯 Goals :  Work with NBFC clients , BFSI Vertical , Data Science & AI <br>🎲 Fun fact : Love Travelling & Music</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently working on projects in DataScience & AI <br>🎯 Areas of Interest : BFSI Vertical , Data Science & AI , Data Analysis , Backend Development , GenAI <br>🎲 Fun fact : Love Travelling & Music</p>
 
 ###
 
