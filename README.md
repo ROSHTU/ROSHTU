@@ -97,6 +97,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" height="40" alt="OpenAI logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" height="40" alt="GenAI logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/106233300?s=200&v=4" height="40" alt="LangChain logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
+<img width="12" />
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="Streamlit logo" />
+<img width="12" />
+
+
+
+
 </div>
 
 ###
